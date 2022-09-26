@@ -1,8 +1,7 @@
 [![MasterHead](https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/07/sb-blog-programming.png)]
 <h1 align="center">Hi 👋, I'm Utsav Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.lowgif.com/small/734db644b6c1309b-.gif">
-
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76118d2dc76bb3ceee4e5ebf41fb5f7b7b0c5979c874&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethutsav&label=Profile%20views&color=0e75b6&style=flat" alt="sethutsav" /> </p>
 <p align="left"> <a href="https://twitter.com/utsavkumar06" target="blank"><img src="https://img.shields.io/twitter/follow/utsavkumar06?logo=twitter&style=for-the-badge" alt="utsavkumar06" /></a> </p>
 

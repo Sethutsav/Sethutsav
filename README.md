@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA with C++**
 
-- 💬 Ask me about **C/C++, Frontend**
+- 💬 Ask me about **C/C++, Web development, Java developer**
 
 - 📫 How to reach me **kumarusav1206@gmail.com**
 

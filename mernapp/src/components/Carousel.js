@@ -13,19 +13,37 @@ export default function Carousel() {
             </form>
           </div>
           <div className="carousel-item active">
-            <img src="https://source.unsplash.com/random/900x700/?burger" className="d-block w-100" alt="..." style={{ filter: "brightness(30%)" }} />
+            <img src="https://source.unsplash.com/random/900x700/?burger" className="d-block w-100" alt="..." style={{ filter: "brightness(80%)" }} />
           </div>
           <div className="carousel-item">
-            <img src="https://source.unsplash.com/random/900x700/?pastry" className="d-block w-100" alt="..." style={{ filter: "brightness(35%)" }} />
+            <img src="https://source.unsplash.com/random/900x700/?pizza" className="d-block w-100" alt="..." style={{ filter: "brightness(70%)" }} />
           </div>
           <div className="carousel-item">
-            <img src="https://source.unsplash.com/random/900x700/?barbeque" className="d-block w-100" alt="..." style={{ filter: "brightness(40%)" }} />
+            <img src="https://source.unsplash.com/random/900x700/?barbeque" className="d-block w-100" alt="..." style={{ filter: "brightness(100%)" }} />
           </div>
           <div className="carousel-item">
-            <img src="https://source.unsplash.com/random/900x700/?soup" className="d-block w-100" alt="..." style={{ filter: "brightness(45%)" }} />
+            <img src="https://source.unsplash.com/random/900x700/?noodles" className="d-block w-100" alt="..." style={{ filter: "brightness(100%)" }} />
           </div>
           <div className="carousel-item">
-            <img src="https://source.unsplash.com/random/900x700/?colddrinks" className="d-block w-100" alt="..." style={{ filter: "brightness(50%)" }} />
+            <img src="https://source.unsplash.com/random/900x700/?curry" className="d-block w-100" alt="..." style={{ filter: "brightness(100%)" }} />
+          </div>
+          <div className="carousel-item">
+            <img src="https://source.unsplash.com/random/900x700/?soup" className="d-block w-100" alt="..." style={{ filter: "brightness(95%)" }} />
+          </div>
+          <div className="carousel-item">
+            <img src="https://source.unsplash.com/random/900x700/?colddrinks" className="d-block w-100" alt="..." style={{ filter: "brightness(70%)" }} />
+          </div>
+          <div className="carousel-item">
+            <img src="https://source.unsplash.com/random/900x700/?coffee" className="d-block w-100" alt="..." style={{ filter: "brightness(70%)" }} />
+          </div>
+          <div className="carousel-item">
+            <img src="https://source.unsplash.com/random/900x700/?tea" className="d-block w-100" alt="..." style={{ filter: "brightness(70%)" }} />
+          </div>
+          <div className="carousel-item">
+            <img src="https://source.unsplash.com/random/900x700/?juice" className="d-block w-100" alt="..." style={{ filter: "brightness(70%)" }} />
+          </div>
+          <div className="carousel-item">
+            <img src="https://source.unsplash.com/random/900x700/?maincourse" className="d-block w-100" alt="..." style={{ filter: "brightness(70%)" }} />
           </div>
         </div>
         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
